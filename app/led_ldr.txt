@@ -1,0 +1,2 @@
+Con la iluminación del flash de un celular se logró una resistencia de 100 ohms para el LDR.
+En la oscuridad, llega a 30 kohm.
